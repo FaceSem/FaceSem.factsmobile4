@@ -751,7 +751,7 @@
     width: 85vw;
     margin-left: 5vw;
     margin-top: 9vw;
-    letter-spacing: -1px;
+    letter-spacing: -1.5px;
   }
 
   .decoration-with-logo img {
@@ -963,12 +963,12 @@
 }
 
 .section-2-title h3 {
-  width: 60vw;
+  width: 58vw;
   height: auto;
   font-size: 6.1vw;
   font-weight: bold;
   margin-left: 8vw;
-  letter-spacing: -1px;
+  letter-spacing: -1.5px;
 }
 
 .section-2-title img {
